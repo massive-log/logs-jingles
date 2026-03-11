@@ -14,19 +14,19 @@ The shell script should do this automatically for you, but there are some cases 
 
 The Legend of Zelda is typically shortened to 'tloz', and any following subtitle is also shortened. The Legend of Zelda, A Link Between Worlds: tloz-albw
 
-Fire Emblem is routinely shortened to 'fe.
-
-Final Fantasy becomes 'ff'
-
-Dragon Quest becomes 'dq'
-
-Kingdom Hearts becomes 'kh'
-
-Monster Hunter becomes 'mh' 
-
 Metal Gear Solid becomes 'mgs'
 
 Shin Megami Tensei becomes 'smt'
+
+The current exact rules are still being defined, but we are currently leaning to this format:
+
+If the series name is three words or longer, it should be shortened into an acronym. So, Metal Gear Solid is shortened into mgs.
+
+If the series name contains an 'and', you may use the ampersand. So, Mario and Luigi would become m&l.
+
+If the series has been shortened, then the subtitle should also be shortened unless it is exactly one word long. For example, Mario and Luigi - Bowser's Inside Story would be written as m&l-bis, but Mario and Luigi - Brothership would be written as m&l-brothership.
+
+On top of this, the subtitle should be shortened in any case in which it is three words or longer, excluding fillers, which should not be written. For example, Paper Mario and the Thousand Year Door should become paper-mario-ttyd. However, Kirby and the Rainbow Curse would simply be written as kirby-and-the-rainbow-curse.
 
 Then, move your jingles into `jingles/n3ds`, and edit the `index.json` in the root of the repository accordingly, adding a new entry in the json with this format:
 
