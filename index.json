@@ -1,6 +1,7 @@
 {
   "name": "Red's Jingles Pack",
   "entries": [
+    { "game": "7th Dragon III Code - VFD", "file": "jingles/n3ds/7th-dragon-3-vfd.wav" },
     { "game": "Ace Combat - Assault Horizon Legacy", "file": "jingles/n3ds/ace-combat-ahl.wav" },
     { "game": "Animal Crossing - New Leaf", "file": "jingles/n3ds/animal-crossing-new-leaf.wav" },
     { "game": "Beyond the Labyrinth", "file": "jingles/n3ds/beyond-labyrinth.wav" },
@@ -25,6 +26,7 @@
     { "game": "Fire Emblem - Awakening", "file": "jingles/n3ds/fe-awakening.wav" },
     { "game": "Fire Emblem Echoes - Shadows of Valentia", "file": "jingles/n3ds/fe-echoes.wav" },
     { "game": "Fire Emblem Fates", "file": "jingles/n3ds/fe-fates.wav" },
+    { "game": "Fire Emblem Warriors", "file": "jingles/n3ds/fe-warriors.wav" },
     { "game": "Fossil Fighters - Frontier", "file": "jingles/n3ds/fossil-fighters-frontier.wav" },
     { "game": "Gurumin 3D", "file": "jingles/n3ds/gurumin-3d.wav" },
     { "game": "Hatsune Miku - Project Mirai DX", "file": "jingles/n3ds/miku-mirai-dx.wav" },
@@ -52,6 +54,7 @@
     { "game": "Mario Party - Star Rush", "file": "jingles/n3ds/mario-party-star-rush.wav" },
     { "game": "Metal Gear Solid - Snake Eater 3D", "file": "jingles/n3ds/mgs-3d.wav" },
     { "game": "Metroid - Samus Returns", "file": "jingles/n3ds/metroid-samus-returns.wav" },
+    { "game": "Minecraft", "file": "jingles/n3ds/minecraft.wav" },
     { "game": "Monster Hunter 3 Ultimate", "file": "jingles/n3ds/mh3u.wav" },
     { "game": "Monster Hunter 4 Ultimate", "file": "jingles/n3ds/mh4u.wav" },
     { "game": "Monster Hunter Generations", "file": "jingles/n3ds/mh-generations.wav" },
@@ -109,6 +112,7 @@
     { "game": "Theatrhythm Final Fantasy Curtain Call", "file": "jingles/n3ds/theatrhythm-curtain-call.wav" },
     { "game": "Tomodachi Life", "file": "jingles/n3ds/tomodachi-life.wav" },
     { "game": "WarioWare Gold", "file": "jingles/n3ds/warioware-gold.wav" },
+    { "game": "Xenoblade Chronicles 3D", "file": "jingles/n3ds/xenoblade-chronicles-3d.wav" },
     { "game": "Yo-Kai Watch", "file": "jingles/n3ds/yo-kai-watch.wav" },
     { "game": "Yo-Kai Watch 2 - Bony Spirits", "file": "jingles/n3ds/yo-kai-watch-2-bony-spirits.wav" },
     { "game": "Yo-Kai Watch 2 - Fleshy Souls", "file": "jingles/n3ds/yo-kai-watch-2-fleshy-souls.wav" },
