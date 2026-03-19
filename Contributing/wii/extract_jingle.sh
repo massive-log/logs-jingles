@@ -85,7 +85,7 @@ for ROM in "$GAMES_DIR"/*.rvz "$GAMES_DIR"/*.iso; do
             s=$0
 
             # 1. Strip TitleID prefix
-            sub(/^0004[0-9A-Fa-f]{12}[-_ ]?/, "", s)
+            sub(/^0001[0-9A-Fa-f]{12}[-_ ]?/, "", s)
 
             # 2. Strip trailing noise tags (before the extension, which is already gone)
             sub(/[-_ .]?[Ss]tandard$/, "", s)
