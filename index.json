@@ -20,6 +20,14 @@
     {
       "name": "Pokemon - LeafGreen Version",
       "file": "jingles/gba/pokemon-fire-red.wav"
+    },
+    {
+      "name": "Pokemon - Lazarus",
+      "file": "jingles/gba/pokemon-lazarus.wav"
+    },
+    {
+      "name": "Pokemon - Unbound",
+      "file": "jingles/gba/pokemon-unbound.wav"
     }
   ],
   "switch": [
