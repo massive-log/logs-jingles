@@ -9,11 +9,11 @@
   "nds": [
     {
       "name": "Pokemon - Black Version 2",
-      "file": "jingles/nds/Pokemon Black 2.wav"
+      "file": "jingles/nds/pokemon-black-2.wav"
     },
     {
       "name": "Pokemon - White Version 2",
-      "file": "jingles/nds/Pokemon Black 2.wav"
+      "file": "jingles/nds/pokemon-white-2.wav"
     }
   ],
   "n3ds": [
